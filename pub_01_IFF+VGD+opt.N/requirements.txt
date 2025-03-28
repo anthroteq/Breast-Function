@@ -1,0 +1,5 @@
+cupy_cuda12x==13.4.1
+dill==0.3.9
+mayavi==4.8.2
+numpy==2.2.4
+sympy==1.13.3
